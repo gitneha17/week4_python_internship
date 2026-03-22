@@ -55,7 +55,3 @@ This project helped in understanding how visual representation of data can simpl
 
 **👩‍💻 Author**
 Neha Beldar
-
----
-
-## 📂 Project Structure
